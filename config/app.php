@@ -55,7 +55,7 @@ return [
     'url' => env('APP_URL', 'http://localhost'),
 
      'asset_url' => env('ASSET_URL', null),
-    'image_url' => env('IMAGE_URL', 'http://localhost/moweb_practical/'),
+    'image_url' => env('IMAGE_URL', 'http://127.0.0.1:8000/'),
     /*
     |--------------------------------------------------------------------------
     | Application Timezone
